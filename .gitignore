@@ -25,3 +25,4 @@
 /.nb-gradle/
 
 *.crt
+application-default.properties
